@@ -1,0 +1,26 @@
+*{
+    margin: 20px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center; 
+    color: aquamarine;
+    font-size: 1.5rem;
+}
+body{
+    background-image: url("images/ram.jpg");
+   
+    background-size: cover;
+   
+}
+h3{
+    color: Silver;
+    
+}
+@media screen and (max-width:600px){
+    body{
+        background-image: url("images/ram.jpg");
+     
+        
+       
+    } 
+}
